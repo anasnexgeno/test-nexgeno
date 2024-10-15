@@ -6,7 +6,7 @@ const products = [
         name: 'Sandals',
         description: 'Voluptatem Accusantium',
         price: '₹145.93',
-        image: './src/assets/IMG_2701a copy 1.png',
+        image: 'https://i.ibb.co/372WPgd/IMG-2701a-copy-1.png',
         colors: ['black', '#c4c9c8', '#d17b42'],
     },
     {
@@ -14,7 +14,7 @@ const products = [
         name: 'Sandals',
         description: 'Voluptatem Accusantium',
         price: '₹145.93',
-        image: './src/assets/IMG_2701a copy 1.png',
+        image: 'https://i.ibb.co/372WPgd/IMG-2701a-copy-1.png',
         colors: ['black', '#c4c9c8', '#d17b42'],
     },
     {
@@ -22,7 +22,7 @@ const products = [
         name: 'Sandals',
         description: 'Voluptatem Accusantium',
         price: '₹145.93',
-        image: './src/assets/IMG_2701a copy 1.png',
+        image: 'https://i.ibb.co/372WPgd/IMG-2701a-copy-1.png',
         colors: ['black', '#c4c9c8', '#d17b42'],
     },
     {
@@ -30,7 +30,7 @@ const products = [
         name: 'Sandals',
         description: 'Voluptatem Accusantium',
         price: '₹145.93',
-        image: './src/assets/IMG_2701a copy 1.png',
+        image: 'https://i.ibb.co/372WPgd/IMG-2701a-copy-1.png',
         colors: ['black', '#c4c9c8', '#d17b42'],
     },
     {
@@ -38,7 +38,7 @@ const products = [
         name: 'Sandals',
         description: 'Voluptatem Accusantium',
         price: '₹145.93',
-        image: './src/assets/IMG_2701a copy 1.png',
+        image: 'https://i.ibb.co/372WPgd/IMG-2701a-copy-1.png',
         colors: ['black', '#c4c9c8', '#d17b42'],
     },
     {
@@ -46,7 +46,7 @@ const products = [
         name: 'Sandals',
         description: 'Voluptatem Accusantium',
         price: '₹145.93',
-        image: './src/assets/IMG_2701a copy 1.png',
+        image: 'https://i.ibb.co/372WPgd/IMG-2701a-copy-1.png',
         colors: ['black', '#c4c9c8', '#d17b42'],
     },
 ];

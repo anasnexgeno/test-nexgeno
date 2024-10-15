@@ -6,7 +6,7 @@ const products = [
         name: 'Sandals',
         description: 'Voluptatem Accusantium',
         price: '₹145.93',
-        image: './src/assets/IMG_2701a copy 1.png',
+        image: 'https://i.ibb.co/372WPgd/IMG-2701a-copy-1.png',
         colors: ['black', '#c4c9c8', '#d17b42'],
     },
     {
@@ -14,7 +14,7 @@ const products = [
         name: 'Sandals',
         description: 'Voluptatem Accusantium',
         price: '₹145.93',
-        image: './src/assets/IMG_2701a copy 1.png',
+        image: 'https://i.ibb.co/372WPgd/IMG-2701a-copy-1.png',
         colors: ['black', '#c4c9c8', '#d17b42'],
     },
     {
@@ -22,7 +22,7 @@ const products = [
         name: 'Sandals',
         description: 'Voluptatem Accusantium',
         price: '₹145.93',
-        image: './src/assets/IMG_2701a copy 1.png',
+        image: 'https://i.ibb.co/372WPgd/IMG-2701a-copy-1.png',
         colors: ['black', '#c4c9c8', '#d17b42'],
     },
     {
@@ -30,7 +30,7 @@ const products = [
         name: 'Sandals',
         description: 'Voluptatem Accusantium',
         price: '₹145.93',
-        image: './src/assets/IMG_2701a copy 1.png',
+        image: 'https://i.ibb.co/372WPgd/IMG-2701a-copy-1.png',
         colors: ['black', '#c4c9c8', '#d17b42'],
     },
     {
@@ -38,7 +38,7 @@ const products = [
         name: 'Sandals',
         description: 'Voluptatem Accusantium',
         price: '₹145.93',
-        image: './src/assets/IMG_2701a copy 1.png',
+        image: 'https://i.ibb.co/372WPgd/IMG-2701a-copy-1.png',
         colors: ['black', '#c4c9c8', '#d17b42'],
     },
     {
@@ -46,7 +46,7 @@ const products = [
         name: 'Sandals',
         description: 'Voluptatem Accusantium',
         price: '₹145.93',
-        image: './src/assets/IMG_2701a copy 1.png',
+        image: 'https://i.ibb.co/372WPgd/IMG-2701a-copy-1.png',
         colors: ['black', '#c4c9c8', '#d17b42'],
     },
 ];
@@ -79,10 +79,10 @@ const BestSelling = () => {
             </div>
 
             <div className="black-friday-banner w-[70rem] dm:w-[50rem] mx-28 dm:mx-0  mt-12 relative">
-                <img src="./src/assets/Rectangle 319.png" alt="Black Friday Banner" className="w-full h-auto" />
+                <img src="https://i.ibb.co/3YhbVM1/Rectangle-319.png" alt="Black Friday Banner" className="w-full h-auto" />
                 <div className="absolute inset-0 flex justify-center items-center ml-[20rem] space-x-4 mt-5">
-                    <img src="./src/assets/IMG_2744ss-copy 4.png" alt="Sandal Image 1" className="w-[250px] dm:-ml-60 h-auto" />
-                    <img src="./src/assets/IMG_2744ss-copy 4.png" alt="Sandal Image 2" className="w-[250px] h-auto" />
+                    <img src="https://i.ibb.co/4gJMWJC/IMG-2744ss-copy-4.png" alt="Sandal Image 1" className="w-[250px] dm:-ml-60 h-auto" />
+                    <img src="https://i.ibb.co/4gJMWJC/IMG-2744ss-copy-4.png" alt="Sandal Image 2" className="w-[250px] h-auto" />
                 </div>
             </div>
         </section>

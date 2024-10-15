@@ -24,7 +24,7 @@ const Navbar = () => {
                 <div className="mx-20 dm:mb-24 -my-5">
                     <div className="flex-rows">
                         <div className="Macro-logo mt-10">
-                            <img src="./src/assets/Macro 1.png" alt="" className="dm:w-40 dm:-ml-16" />
+                            <img src="https://i.ibb.co/2qVrG9S/Macro-1-1.png" alt="" className="dm:w-40 dm:-ml-16" />
                         </div>
                         <div className="ml-[25rem] dm:mt-7 dm:-ml-8 dm:-mx-40 -mt-11">
                             <input className="search w-[50%] dm:w-[60%] bg-[#e6e3e3] p-2 rounded-l-3xl" type="text"
@@ -40,22 +40,6 @@ const Navbar = () => {
 
                 <nav id="header" className="bg-gray-800 mt-14 px-4 py-0">
                     <div className="flex justify-between mx-20 dm:mx-0 items-center flex-wrap">
-                        {/* <div className="relative">
-                            <button className="bg-gray-700 text-white px-4 py-2 rounded inline-flex items-center" type="button">
-                                Categories (See All)
-                                <svg className="w-4 h-4 ml-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7" />
-                                </svg>
-                            </button>
-                            <ul className="dropdown-menu absolute hidden bg-white text-gray-700 shadow-lg rounded mt-1">
-                                <li><a className="block px-4 py-2 hover:bg-gray-100" href="#">Bridal Collection</a></li>
-                                <li><a className="block px-4 py-2 hover:bg-gray-100" href="#">New Arrivals</a></li>
-                                <li><a className="block px-4 py-2 hover:bg-gray-100" href="#">Casual Collection</a></li>
-                                <li><a className="block px-4 py-2 hover:bg-gray-100" href="#">Diwali Collection</a></li>
-                                <li><a className="block px-4 py-2 hover:bg-gray-100" href="#">Best Selling</a></li>
-                                <li><a className="block px-4 py-2 hover:bg-gray-100" href="#">Featured Collection</a></li>
-                            </ul>
-                        </div> */}
                         <div className="relative">
                             <button
                                 className="bg-gray-700 text-white px-4 py-2 rounded inline-flex items-center w-full md:w-auto"

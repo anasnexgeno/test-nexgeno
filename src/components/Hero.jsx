@@ -53,7 +53,7 @@ const Hero = () => {
             </div>
             <div className="md:w-1/2 mt-6 md:mt-0">
                 <img
-                    src="./src/assets/IMG_2792ss-copy 2.png"
+                    src="https://i.ibb.co/fn7WMTW/IMG-2792ss-copy-2-1.png"
                     alt="Footwear"
                     className="w-full h-auto rounded-lg"
                 />

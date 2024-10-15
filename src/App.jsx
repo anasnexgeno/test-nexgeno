@@ -7,6 +7,7 @@ import BestSelling from './components/BestSelling'
 import Featured from './components/Featured'
 import NewProduct from './components/NewProduct'
 import Banner from './components/Banner'
+import ProductSection from './components/ProductSection'
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
       <Featured />
       <NewProduct />
       <Banner />
+      <ProductSection />
     </div>
   )
 }
